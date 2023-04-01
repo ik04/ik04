@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm ishaan Khurana</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ik5292@srmist.edu.in.com</h3>
 <p align="left">
 </p>
 
