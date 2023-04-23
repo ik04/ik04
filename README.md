@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MasteryV2**
 
-- 🌱 I’m currently learning **Django and React-Native**
+- 🌱 I’m currently learning **Django and Flutter**
 
 - 📫 How to reach me **ishaanKhurana123@gmail.com or ik5292@srmist.edu.in**
 
