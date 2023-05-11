@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MasteryV2**
 
-- 🌱 I’m currently learning **Django and Typescript**
+- 🌱 I’m currently learning **MERN stack and Typescript**
 
 - 📫 How to reach me **ishaanKhurana123@gmail.com or ik5292@srmist.edu.in**
 
