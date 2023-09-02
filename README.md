@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ishaan Khurana</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Menu-App and club contributions**
+- 🔭 I’m currently working on **KaizenKlass**
 
-- 🌱 I’m currently learning **MERN stack and BeautifulSoup**
+- 🌱 I’m currently learning **ml**
 
 - 📫 How to reach me **ishaanKhurana123@gmail.com or ik5292@srmist.edu.in**
 
