@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **KaizenKlass**
 
-- 🌱 I’m currently learning **ml**
+- 🌱 I’m currently learning **Web Design**
 
 - 📫 How to reach me **ishaanKhurana123@gmail.com or ik5292@srmist.edu.in**
 
