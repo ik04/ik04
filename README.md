@@ -18,6 +18,6 @@
 <div >
   <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ik04&show_icons=true&locale=en&theme=algolia" alt="ravikul505" /></p>
   <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ik04&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ik04&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ik04&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hi mom" /></p>
 </div> 
 
