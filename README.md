@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **KaizenKlass-v2**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Computer Networks**
 
 - 📫 How to reach me **ishaanKhurana123@gmail.com or ik5292@srmist.edu.in**
 
