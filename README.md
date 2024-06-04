@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ishaan Khurana</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **KaizenKlass-v2**
+- 🔭 I’m currently working on **KaizenKlass-v3**
 
-- 🌱 I’m currently learning **Threejs**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **ishaanKhurana123@gmail.com or ik5292@srmist.edu.in**
 
