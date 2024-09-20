@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **KaizenKlass-v3**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **ishaanKhurana123@gmail.com or ik5292@srmist.edu.in**
 
